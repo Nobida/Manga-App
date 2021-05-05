@@ -3,7 +3,7 @@
 It is an Manga App based on React-Native、React hooks、Antd Mobile、axios
 
 
-## 1, Structure
+## 1,  Structure
 
 ```js
 ├── readme.md
@@ -58,7 +58,7 @@ It is an Manga App based on React-Native、React hooks、Antd Mobile、axios
         └── index.js
 ```
 
-## 二、Fast Install 
+## 2, Fast Install 
 
 ### 1、Clone to local
 
