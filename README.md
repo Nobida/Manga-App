@@ -71,6 +71,10 @@ It is an Manga App based on React-Native、React hooks、Antd Mobile、axios
 
 ### 3、Success as shown
 
+ s
 ![image](https://github.com/Nobida/Manga-App/blob/main/screenShot/category.png)
+
+![homepage](./screenShot/homePage.png)
+
 
 For others[screenShot](./screenShot)
