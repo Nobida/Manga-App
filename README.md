@@ -69,12 +69,15 @@ It is an Manga App based on React-Native、React hooks、Antd Mobile、axios
 `npm install`，
 `react-native run-ios` 
 
-### 3、Success as shown
-
- s
-![image](https://github.com/Nobida/Manga-App/blob/main/screenShot/category.png)
-
-![homepage](./screenShot/homePage.png)
+### 3、ScreenShot
 
 
-For others[screenShot](./screenShot)
+##### HomePage
+<img src="https://github.com/Nobida/Manga-App/blob/main/screenShot/homePage.png" width="375">
+##### Category
+##### Category Detail
+ 
+
+
+
+For others [screenShot](./screenShot)
