@@ -62,7 +62,7 @@ It is an Manga App based on React-Native、React hooks、Antd Mobile、axios
 
 ### 1、Clone to local
 
-`git clone git@github.com:baozouai/rn-cartoon-app.git`
+`git clone git@github.com:Nobida/Manga-App.git`
 
 ### 2、Open the terminal，`cd rn-cartoon-app`
 
